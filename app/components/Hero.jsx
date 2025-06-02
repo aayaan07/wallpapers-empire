@@ -53,7 +53,7 @@ const Hero = () => {
         {/* Links */}
         <div className='lg:flex gap-6 items-center hidden'>
           <Link href='#Explore' className='text-[16px] font-medium text-gray-900 Poppins rounded-xl p-[10px] hover:bg-[#e5e5e5] easeEffect'>Explore</Link>
-          <Link href='/' className='text-[16px] font-medium text-gray-900 Poppins rounded-xl p-[10px] hover:bg-[#e5e5e5] easeEffect'>Github</Link>
+          <Link href='https://github.com/aayaan07/wallpapers-empire' target="_blank" className='text-[16px] font-medium text-gray-900 Poppins rounded-xl p-[10px] hover:bg-[#e5e5e5] easeEffect'>Github</Link>
         </div>
 
       </nav>
