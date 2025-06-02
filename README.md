@@ -2,7 +2,7 @@
 
 Discover stunning, high-quality wallpapers curated just for you — from nature and digital art to futuristic and cinematic themes. Images are fetched randomly, offering a fresh and unique experience every time you explore.
 
-🌐 **Live Site:** [https://your-website-link.com](https://your-website-link.com) *(update this with your actual link)*
+🌐 **Live Site:** [https://wallpapers-empire.vercel.app.com](https://wallpapers-empire.vercel.app/))
 
 ---
 
