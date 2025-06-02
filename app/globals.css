@@ -3,7 +3,7 @@
 body {
   background-image: url('/bg.png');
   box-sizing: border-box;
-  background-size: cover;
+  background-size: contain;
   background-repeat: repeat;
   scroll-behavior: smooth;
   overflow-x: hidden;
